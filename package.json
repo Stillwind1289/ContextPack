@@ -1,9 +1,9 @@
 {
-  "name": "promptpack",
-  "displayName": "PromptPack",
+  "name": "contextpack",
+  "displayName": "ContextPack",
   "description": "Bundle selected project files into AI-ready context with one command.",
   "version": "0.0.1",
-  "publisher": "REPLACE_WITH_YOUR_PUBLISHER_ID",
+  "publisher": "ventrynlabs",
   "engines": {
     "vscode": "^1.85.0"
   },
